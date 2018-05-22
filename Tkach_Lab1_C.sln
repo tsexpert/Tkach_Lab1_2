@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tkach_Lab1_C", "Tkach_Lab1_C\Tkach_Lab1_C.vcxproj", "{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Debug|x64.ActiveCfg = Debug|x64
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Debug|x64.Build.0 = Debug|x64
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Debug|x86.ActiveCfg = Debug|Win32
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Debug|x86.Build.0 = Debug|Win32
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Release|x64.ActiveCfg = Release|x64
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Release|x64.Build.0 = Release|x64
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Release|x86.ActiveCfg = Release|Win32
+		{9ED3DA0B-7E4C-4AC7-8CE6-F24678A8E936}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D441B8-AB2D-4BCD-A472-CF9E609AC751}
+	EndGlobalSection
+EndGlobal
